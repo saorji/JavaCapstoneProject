@@ -1,0 +1,17 @@
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/medicine-concept-illustration_114360-2802.jpg?w=826&t=st=1664729697~exp=1664730297~hmac=15bba891fb907ca1109aa126c985cb18dff6a108f20abbbbbe9aa475928236ea");
+    background-repeat: no-repeat;
+    padding-top: 5rem;
+    background-color: #ffffff;
+}
+
+.form-signin {
+    max-width: 25rem;
+    margin: auto;
+}
